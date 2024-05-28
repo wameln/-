@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="stu5_16:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f28b3ca0-8de0-435b-897a-1d24f9a431df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/stu5_16_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ScoreD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/StudentD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/TeacherD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/add_student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/check_login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/check_register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/delete_student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/exit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/one_page_score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/one_page_student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/update_score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/update_student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/update_student_security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/update_teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/update_teacher_password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/upload_studentImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/upload_teacherImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vo/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin/personal.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/code.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/forget.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/forget.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/jquery-ui-1.10.4.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/js/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/resources/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sendCode.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student/pdf.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student/personal.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/student/resetPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacher/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacher/personal.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacher/resetPassword.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacher/score.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/teacher/score_excel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userImg/20162430634.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userImg/20162430635.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/userImg/zzu.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Kotlin Class" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="package-info" />
+        <option value="package.json" />
+        <option value="Dockerfile" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/dao/StudentD.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/dao/TeacherD.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/servlet/upload_studentImg.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/vo/Student.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/vo/Teacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/login.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gWnjlBhcq6zcx2gh6hfE65zk4X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 8.5.991.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat 服务器.Tomcat 8.5.991.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;F:/Desktop/Javaweb/实验代码/Workspace-backup/Workspace-backup/stu5_16/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Desktop/Javaweb/实验代码/Workspace-backup/Workspace-backup/stu5_16/web/resources/img&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20689656&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\web\resources\img" />
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\web\resources" />
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\src\main\java\servlet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\web\resources\img" />
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\src\main\java\servlet" />
+      <recent name="F:\Desktop\Javaweb\实验代码\Workspace-backup\Workspace-backup\stu5_16\web\userImg" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.991" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.991" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="stu5_16:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/stu5_16_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1bcaf120-8ad0-4c90-8238-16879e762993" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52079" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="stu5_16:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.991" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.991" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="stu5_16:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/stu5_16_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="1bcaf120-8ad0-4c90-8238-16879e762993" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52079" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="stu5_16:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f28b3ca0-8de0-435b-897a-1d24f9a431df" name="Changes" comment="" />
+      <created>1715822340767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715822340767</updated>
+      <workItem from="1715822341954" duration="1163000" />
+      <workItem from="1715824958998" duration="4451000" />
+      <workItem from="1715857120473" duration="6810000" />
+      <workItem from="1715903870933" duration="2018000" />
+      <workItem from="1715905926807" duration="2238000" />
+      <workItem from="1716185031033" duration="4392000" />
+      <workItem from="1716189883366" duration="4470000" />
+      <workItem from="1716194685944" duration="1651000" />
+      <workItem from="1716249758421" duration="5936000" />
+      <workItem from="1716256742071" duration="2737000" />
+      <workItem from="1716422850241" duration="12309000" />
+      <workItem from="1716451206798" duration="1657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,85 @@
+body{
+    background-color: #211111;
+    background-image: url("../img/c.jpg");
+    background-size: cover;
+}
+
+.main{
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    /*left: 50%;*/
+    top: 0;
+    bottom: 0;
+    right: 0;
+    /*top: 50%;*/
+    /*margin: -250px 0 0 -200px;*/
+    padding: 50px;
+    opacity: 0.8;
+    background-color: #ffffff;
+    border-radius:10px ;
+    box-shadow: 0 10px 20px rgb(241, 236, 236);
+}
+
+.title{
+    top: 0;
+    height: 25%;
+    text-align: center;
+}
+
+.title a{
+    padding: 10px;
+    color: #b19696;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#register{
+    font-weight: 600;
+    color: #ea5a5a;
+    border-bottom: 1px solid #ea6f5a;
+    text-decoration: none;
+}
+
+.form-control{
+    height: 50px;
+}
+
+.email{
+    border-radius: 5px 5px 0 0;
+    background:url(../img/email.png) no-repeat 5px 12px;
+    background-size: 22px 22px;
+    padding-left:35px;
+}
+
+.user{
+    border-top: none;
+    border-radius: 0;
+    background:url(../img/user.png) no-repeat 5px 12px;
+    background-size: 25px 25px;
+    padding-left:35px;
+}
+
+.password1{
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    background:url(../img/password.png) no-repeat 8px 12px;
+    background-size: 20px 20px;
+    padding-left:35px;
+}
+
+.code{
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    padding-left: 10px;
+}
+
+.btn{
+    margin-top: 40px;
+    border: none;
+    border-radius: 25px;
+    background: #7eea5a;
+}
